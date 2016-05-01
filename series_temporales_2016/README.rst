@@ -24,3 +24,12 @@ Instrucciones de como arrancar:
 4) el archivo series_temporales_2016/core.py tiene las funciones del proyecto; segun lo recomendado en el documento de estructura 
 
 --------------------------------------------------------------------
+Recomendaciones librerias segun profe:
+ 
+# pylab > tiene toda la parte de series temporales.
+
+# scipy
+
+# matplotlib > para graficar
+
+# pandas > estadistica
